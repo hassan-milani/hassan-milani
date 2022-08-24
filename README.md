@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hassan-milani
 - 👀 I’m interested in programming and graphic design.
-- 🌱 I’m currently learning new stuff in web pages
+- 🌱 I’m currently learning new stuff in React and Django 
 - 📫 How to reach me almilanihassan@gmail.com
 
 <!---
